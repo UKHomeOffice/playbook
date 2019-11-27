@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital, Data and Technology Playbook - Home Office</title>
+  <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
+  <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+
+<body>
+  <script>
+  document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+  </script>
+  <div id="skiplink-container">
+    <div>
+      <a href="#content" class="skiplink">Skip to main content</a>
+    </div>
+  </div>
+
+  <header>
+    <div class="wrapper-header">
+      <div class="header-top">
+        <div class="header-logo">
+          {% include home-office-logo.html %}
+        </div>
+        <div class="header-title">
+          <a href="/" class="header-name">DDaT Playbook</a>
+        </div>
+        <div class="header-menu">
+          <ul>
+            <li><a href="{{ site.url }}{{ site.baseurl }}/about">About</a></li>
+            <!-- <li><a href="https://hodigital.blog.gov.uk/">Blog</a></li> -->
+            <li><a href="{{ site.url }}{{ site.baseurl }}/contact/">Contact</a></li>
+            <!-- <li><a href="{{ site.url }}{{ site.baseurl }}/search/">Search</a></li> -->
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header>
+
+{{ content }}
+
+<footer>
+  <div class="wrapper-footer">
+    <div class="footer-message">
+      <p class="govuk-body-s">A Home Office Digital, Data and Technology service</p>
+    </div>
+    <div class="footer-menu">
+      <ul>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/contact/">Contact us</a></li>
+        <li><a href="https://www.gov.uk/">GOV.UK home</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+{% if site.google_analytics %}
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '{{ site.google_analytics }}', 'auto');
+ga('send', 'pageview');
+</script>
+{% endif %}
+
+
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/script.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/accordion.js"></script>
+<script type="text/javascript">
+if (
+  'addEventListener' in document &&
+  document.querySelectorAll
+) {
+
+  document.addEventListener('DOMContentLoaded', function() {
+
+    var accordions = document.querySelectorAll('.accordion')
+
+    for (var i = accordions.length - 1; i >= 0; i--) {
+      new Accordion(accordions[i])
+    };
+
+  })
+
+}
+</script>
+
+</body>
+</html>

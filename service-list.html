@@ -1,0 +1,44 @@
+---
+layout: default
+date:   2018-06-30 11:52:52 +0100
+title: Services by the Home Office
+---
+
+<main id="content" role="main">
+
+  <div class="grid-row">
+    <div class="column-full" >
+      {% include nav-breadcrumbs.html %}
+    </div>
+  </div>
+
+  <div class="grid-row ">
+    <div class="column-two-thirds">
+      <h1 class="heading-large">Services by the Home Office <span class="heading-secondary">{{ site.data.public | size }} records</span></h1>
+      <p class="lede">Services delivered by the Home Office and related organisations as an end user would know them. </p>
+      <p>If you'd like to suggest a service or a change to something listed here please email <a href="mailto:servicelist@digital.homeoffice.gov.uk">servicelist@digital.homeoffice.gov.uk</a></p>
+    </div>
+  </div>
+
+  <div class="grid-row ">
+    <div class="column-full">
+      <table id="service-list" class="table--striped">
+        <thead>
+          <th data-sort="int">ID</th>
+          <th data-sort="string">Name</th>
+          <th data-sort="string">Delivered by</th>
+        </thead>
+        <tbody>
+          {% for public in site.data.public %}
+          <tr class="">
+            <td>{{ forloop.index }}</td>
+            <td>{{ public.serviceName }}</td>
+            <td>{{ public.deliveredBy }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+</main>

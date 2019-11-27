@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<main id="content" role="main">
+  <div class="grid-row">
+    <div class="column-two-thirds" >
+      <h1 class="heading-large">{{ page.title }}</h1>
+      {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="column-full">
+  {{ content }}
+
+  <div class="panel panel-border-wide">
+    <p>Fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLSflH_7hyKKPOgtVONHuuWLxdIce2yqmvDqBERtzSwwxlKAfUQ/viewform?usp=sf_link">contact form</a></p>
+  </div>
+
+    </div>
+  </div>
+
+</main>

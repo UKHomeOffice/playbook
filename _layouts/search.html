@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<main id="content" role="main">
+  <div class="grid-row">
+    <div class="column-two-thirds" >
+      <h1 class="heading-large">Search</h1>
+      {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="column-two-thirds">
+      {{ content }}
+      <ul class="list-reset list-margin-top" id="search-results-list">
+      </ul>
+    </div>
+  </div>
+</main>
+<script>
+
+  //adds focus class to the search box
+  document.getElementById("site-search-text").classList.add("focus");
+
+  //return search results onto the page. Currently only searches pages, not anything in _posts
+  window.store = {
+    {% for page in site.pages %}
+
+      "{{ page.url | slugify }}": {
+        "title": "{{ page.title | xml_escape }}",
+        "author": "{{ page.author | xml_escape }}",
+        "category": "{{ page.category | xml_escape }}",
+        "content": {{ page.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ site.baseurl }}{{ page.url | xml_escape }}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  };
+</script>
+
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/lunar.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/search.js"></script>

@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+title: Home Office DDaT Playbook
+description:
+baseurl: "" # the subpath of your site, e.g. /blog
+excerpt_separator: "<!--more-->"
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
+show_downloads: false
+sass:
+    sass_dir: _sass
+google_analytics: UA-100424158-2
+permalink: pretty
