@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Home Office DDaT Playbook
 description:
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/playbook/" # the subpath of your site, e.g. /blog
 excerpt_separator: "<!--more-->"
 breadcrumbs:
   root:
