@@ -3,14 +3,17 @@ layout: default
 ---
 <main id="content" role="main">
 
-  <!-- <div class="grid-row">
+{% if page.id != "index" %}
+  <div class="grid-row">
     <div class="column-full" >
       {% include nav-breadcrumbs.html %}
-
+    
     </div>
-  </div> -->
+  </div>
+  {% endif %}
   <div class="grid-row">
     <div class="column-one-third">
+      <h2 class="heading-small">Playbook contents</h2>
 
       <ul class="list-reset">
         {% for page in site.pages %}
