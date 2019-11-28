@@ -16,7 +16,7 @@ layout: default
       <h2 class="heading-small">Playbook contents</h2>
 
       <ul class="list-reset">
-        {% for page in site.pages %}
+        {% for page in site.pages %} 
           {% if page.category contains 'contents' %}
           <li class="">
             <h3 class="heading-small"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
@@ -32,7 +32,7 @@ layout: default
         <!-- {% if page.category %}  <span class="heading-secondary">{{ page.category }}</span>{% endif %} -->
         {{ page.title }}
       </h1>
-    
+
       {{ content }}
     </div>
   </div>
