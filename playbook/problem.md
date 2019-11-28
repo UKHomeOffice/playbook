@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Understand the problem you're trying to solve"
-permalink: /understand-the-porblem-youre-trying-to-solve/
+permalink: /understand-the-problem-youre-trying-to-solve/
 category: contents
 ---
 
