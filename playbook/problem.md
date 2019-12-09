@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Understand the problem"
+title:  "Understand the problem you're trying to solve"
 permalink: /problem/
 category: contents
 ---
