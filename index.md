@@ -15,5 +15,5 @@ This playbook is a collaborative effort. It is the result of conversations and r
 
 This document is publicly available but may link to detailed information that can't be made public.
 
-## H2 Contribute to the playbook
+## Contribute to the playbook
 [Contact us](mailto:francesca.white@digital.homeoffice.gov.uk) to suggest updates and improvements, or to tell us how these principles work in practice. We will iterate the playbook based on feedback. 
