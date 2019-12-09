@@ -5,12 +5,12 @@ permalink: /understand-the-problem-youre-trying-to-solve/
 category: contents
 ---
 
-##Principle 1: Understand the problem you are trying to solve 
+### Principle 1
 
 Looking at the context of what your users are trying to achieve helps you to understand the problem you're trying to solve.  
 
 
-##Why this is important  
+## Why this is important  
 
 The aim of a service or product is often for a user to complete a task or find out some information.  
 
