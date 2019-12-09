@@ -1,13 +1,11 @@
 ---
 layout: page
-title:  "Understand the problem you're trying to solve"
+title:  "Understand the problem"
 permalink: /problem/
 category: contents
 ---
 
-### Principle 1
-
-Looking at the context of what your users are trying to achieve helps you to understand the problem you're trying to solve.  
+You need to consider the problem you're trying to solve for your users. Looking at the context of what your users are trying to achieve can help.
 
 
 ## Why this is important  
