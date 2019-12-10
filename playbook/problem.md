@@ -1,18 +1,18 @@
 ---
 layout: page
-title:  "Understand the problem you're trying to solve"
+title:  "Understand the problem"
 permalink: /problem/
 category: contents
 ---
 
-You need to consider the problem you're trying to solve for your users. Looking at the context of what your users are trying to achieve can help.
+You need to consider the problem you're trying to solve for your users. Looking at the context of what your users are trying to achieve can help understand the problems they find.
 
 
 ## Why this is important  
 
-The aim of a service or product is often for a user to complete a task or find out some information.  
+The aim of a service or product is often for a user to complete a task or find out some information. These tasks are rarely isolated, they are usually part of a wider journey for the user. 
 
-These tasks are rarely isolated, they are usually part of a wider journey for the user. It’s important to consider this journey, or you may risk fixing one area while pushing problems on to somewhere else.   
+It’s important to consider this journey, or you may risk fixing one area while pushing problems on to somewhere else.   
 
 Looking at the context for the user helps you:  
 
