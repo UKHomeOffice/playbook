@@ -5,15 +5,23 @@ description: ""
 id: index
 ---
 
-We build products and services using user-centered design and agile processes. We use evidence and data to support decision-making and prioritisation. 
+The playbook contains principles that teams should follow to design, build, run and retire Home Office products. The principles are:
 
-This playbook (or set of principles) is part of a set of tools to help: 
-* new teams deliver in this way from day one
-* existing teams move towards this approach 
+1. Understand the problem you're trying to solve
+2. Know the value your product will bring 
+3. Design with users
+4. Make sure everyone can use the service
+5. Use appropriate delivery methods
+6. Iterate, improve and evaluate
+7. Meet standards
+8. Establish your team
+9. Collaborate and contribute
+10. Share and reuse
+11. Keep users safe
+12. Work in the open
+13. Choose the right technical approach
 
-This playbook is a collaborative effort. It is the result of conversations and research into how we create products and services that meet the Home Office technical strategy. To contribute, or for more information contact the CTO product team.
-
-This document is publicly available but may link to detailed information that can't be made public.
+This document is publicly available, but may link through to detailed information that can't be made public.
 
 ## Contribute to the playbook
 [Contact us](mailto:francesca.white@digital.homeoffice.gov.uk) to suggest updates and improvements, or to tell us how these principles work in practice. We will iterate the playbook based on feedback. 
