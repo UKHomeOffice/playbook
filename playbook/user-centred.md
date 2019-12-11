@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Be user centred"
+title:  "Design with users"
 permalink: /be-user-centred/
 category: contents
 ---
