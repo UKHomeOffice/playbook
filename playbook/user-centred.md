@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Design with users"
-permalink: /be-user-centred/
+permalink: /3-be-user-centred/
 category: contents
 ---
 Intro par explains principle. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
