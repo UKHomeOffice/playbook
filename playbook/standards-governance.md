@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Standards and governance"
+title:  "Meet Home Office standards"
 permalink: /standards-governance/
 category: contents
 ---
