@@ -7,7 +7,7 @@ id: index
 
 The playbook contains principles that teams should follow to design, build, run and retire Home Office products. The principles are:
 
-1. Understand the problem you're trying to solve
+1. [Understand the problem you're trying to solve](https://ukhomeoffice.github.io/playbook/problem/)
 2. Know the value your product will bring 
 3. Design with users
 4. Make sure everyone can use the service
