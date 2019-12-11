@@ -49,4 +49,4 @@ The playbook contains principles that teams should follow to design, build, run 
 This document is publicly available, but may link through to detailed information that can't be made public.
 
 ## Contribute to the playbook
-[Contact us](mailto:francesca.white@digital.homeoffice.gov.uk) to suggest updates and improvements, or to tell us how these principles work in practice. We will iterate the playbook based on feedback. 
+[Contact us](https://ukhomeoffice.github.io/playbook/contact/) to suggest updates and improvements, or to tell us how these principles work in practice. We will iterate the playbook based on feedback. 
