@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Collaborate and contribute"
-permalink: /everyone-can-use/
+permalink: /collaborate/
 category: contents
 ---
 Intro par explains principle. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
