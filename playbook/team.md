@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Team"
+title:  "Establish your team"
 permalink: /team/
 category: contents
 ---
