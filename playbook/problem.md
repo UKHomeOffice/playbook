@@ -24,7 +24,7 @@ Looking at the context for the user helps you:
 
 * avoid focusing on a solution too soon 
 
- 
+The problem you are trying to solve and the outcome you aim for should be used as reference points to focus team activity. It's useful to refer to them by asking: what problem are we trying to solve? what outcomes are we trying to achieve? how do we know it's working? Do we need to change our thinking?  
 
 ## How to meet this principle  
 
@@ -32,38 +32,24 @@ Looking at the context for the user helps you:
 
 ### Actions to take 
 
-Frame the problem  
-
-https://homeofficegovuk.sharepoint.com/:p:/r/teams/HomeOfficeDigital/User%20Research%20and%20Design/servicedesign/_layouts/15/Doc.aspx?sourcedoc=%7BCEE00F88-4F84-4E11-AB34-9FE053D969A6%7D&file=ProblemFrame_Template_v0.1.pptx&action=edit&mobileredirect=true 
-
-Consider your target outcomes and measures 
-
-Value proposition  - alpha 
-
-Plot the user experience 
-
+####Frame the problem  
+This is the recommended [approach to take to frame a problem](https://homeofficegovuk.sharepoint.com/:p:/r/teams/HomeOfficeDigital/User%20Research%20and%20Design/servicedesign/_layouts/15/Doc.aspx?sourcedoc=%7BCEE00F88-4F84-4E11-AB34-9FE053D969A6%7D&file=ProblemFrame_Template_v0.1.pptx&action=edit&mobileredirect=true). It will only work within the Home Office.
  
+
+#### Consider your target outcomes and measures 
+Setting target outcomes and metrics that you can then measure - these then can be revisited and should remain present throughout the lifecycle. 
+
+#### Value proposition 
+Add content here.
+
+#### Plot the user experience 
+Add content here.
 
 ### When to do this  
-
-If you are using Agile delivery processes then this should be considered at the very beginning before, or in early discovery.  
-
- - including setting target outcomes and metrics to measure - these then can be revisited and should remain present throughout the lifecycle.  
-
-they should be used as reference points - to focus team activity: what problem are we trying to solve? what outcomes are we trying to achieve? how do we know its working? Do we need to pivot? 
-
- 
-
+If you are using Agile delivery processes then this should be considered at the very beginning before, or in early discovery.   
 ### If you are not using Agile processes  
 
-If you are not running an Agile delivery, or you have skipped the discovery phase, then it's still useful to carry out these tasks as it helps you to fully understand the scope of your work and to know when it's complete.  
-
-More about non-agile approaches 
-
-Who should do this PO - could do X BA - could do X UR / UCD team - could do X  
-
- 
-
+If you are not running an Agile delivery, or you have skipped the discovery phase, then it's still useful to carry out these tasks as it helps you to fully understand the scope of your work and to know when it's complete.   
  
 
 ## Who can help  
