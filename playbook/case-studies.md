@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "x Case studies"
+title:  "Case studies"
 permalink: /case-studies/
 category: contents
 ---
