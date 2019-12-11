@@ -23,28 +23,28 @@ The playbook contains principles that teams should follow to design, build, run 
 [Read more about principle 5](https://ukhomeoffice.github.io/playbook/delivery-methods/)
 
 6. Iterate, improve and evaluate  
-[Read more about principle 5](https://ukhomeoffice.github.io/playbook/delivery-methods/)
+[Read more about principle 6](https://ukhomeoffice.github.io/playbook/delivery-methods/)
 
 7. Meet standards  
-[Read more about principle 5](https://ukhomeoffice.github.io/playbook/standards-governance/)
+[Read more about principle 7](https://ukhomeoffice.github.io/playbook/standards-governance/)
 
 8. Establish your team  
-[Read more about principle 5](https://ukhomeoffice.github.io/playbook/team/)
+[Read more about principle 8](https://ukhomeoffice.github.io/playbook/team/)
 
 9. Collaborate and contribute  
-[Read more about principle 5](https://ukhomeoffice.github.io/playbook/collaborate/)
+[Read more about principle 9](https://ukhomeoffice.github.io/playbook/collaborate/)
 
 10. Share and reuse  
-[Read more about principle 5](https://ukhomeoffice.github.io/playbook/share/)
+[Read more about principle 10](https://ukhomeoffice.github.io/playbook/share/)
 
 11. Keep users safe  
-[Read more about principle 5](https://ukhomeoffice.github.io/playbook/safe/)
+[Read more about principle 11](https://ukhomeoffice.github.io/playbook/safe/)
 
 12. Work in the open  
-[Read more about principle 5](https://ukhomeoffice.github.io/playbook/open/)
+[Read more about principle 12](https://ukhomeoffice.github.io/playbook/open/)
 
 13. Choose the right technical approach  
-[Read more about principle 5](https://ukhomeoffice.github.io/playbook/platforms-and-technology/)
+[Read more about principle 13](https://ukhomeoffice.github.io/playbook/platforms-and-technology/)
 
 This document is publicly available, but may link through to detailed information that can't be made public.
 
