@@ -9,7 +9,7 @@ The playbook contains principles that teams should follow to design, build, run 
 
 1. Understand the problem you're trying to solve
 
-   [Find out more about meeting this principle](https://ukhomeoffice.github.io/playbook/problem/)
+[Find out more about meeting this principle](https://ukhomeoffice.github.io/playbook/problem/)
 
 2. Know the value your product will bring 
 3. Design with users
