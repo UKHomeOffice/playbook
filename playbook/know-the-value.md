@@ -5,24 +5,41 @@ permalink: /know-the-value-your-product-will-bring/
 category: contents
 ---
 
-This will be the Know the value your product will bring page.
-
-Intro par explains principle
+Intro par explains principle. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ## Why this is important
+This is why you should do this. The benefits it will bring etc. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-## How to meet this principle
-
+## How to meet this principle 
+These are the things you could do to meet this priniciple. This information will be supplied by the head of role or experts in this area.
 
 ### Action to take
-### Expected outputs 
-### When to do this
+You could: 
+* do this
+* do this next
+* and then do this
 
-## If using Agile, if not
+Ask the community or head of role for more information.
+
+#### Expected outputs 
+Include if not covered above.
+
+### When to do this
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+
+#### If using Agile
+The stage of the lifecycle to do this.
+
+#### If you are using other project management methods
+
 ### Who should do this
+
 ### Who to ask for help
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
 ## HO standards and governance 
+This principle must be met, to adhere to Home Office standards. Heads of role will check that you have met this principle, or you will be assesed
+
 ## HO case studies and examples
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+Link to case studies. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
