@@ -17,13 +17,13 @@ The playbook includes principles teams should follow to design, build, run and r
 [Read more about principle 3](https://ukhomeoffice.github.io/playbook/be-user-centred/)-->
 
 ### Establish your team  
-[Read more about principle](https://ukhomeoffice.github.io/playbook/team/)
+[Have the right roles in place to work together](https://ukhomeoffice.github.io/playbook/team/)
 
 ### Use appropriate delivery methods  
-[Read more about principle](https://ukhomeoffice.github.io/playbook/delivery-methods/)
+[How effective delivery helps to achieve your outcomes](https://ukhomeoffice.github.io/playbook/delivery-methods/)
 
 ### Make sure everyone can use your service or product
-[Read more about principle](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+[Accessibility is essential - embedd it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
 
 <!-- 6. Iterate, improve and evaluate  
 [Read more about principle 6](https://ukhomeoffice.github.io/playbook/delivery-methods/)-->
