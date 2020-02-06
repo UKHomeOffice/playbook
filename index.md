@@ -16,13 +16,13 @@ The playbook includes principles teams should follow to design, build, run and r
 <!-- 3. Design with users  
 [Read more about principle 3](https://ukhomeoffice.github.io/playbook/be-user-centred/)-->
 
-## Establish your team  
+### Establish your team  
 [Read more about principle](https://ukhomeoffice.github.io/playbook/team/)
 
-## Use appropriate delivery methods  
+### Use appropriate delivery methods  
 [Read more about principle](https://ukhomeoffice.github.io/playbook/delivery-methods/)
 
-## Make sure everyone can use the service  
+### Make sure everyone can use your service or product
 [Read more about principle](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
 
 <!-- 6. Iterate, improve and evaluate  
@@ -49,4 +49,4 @@ The playbook includes principles teams should follow to design, build, run and r
 This information is publicly available but may link through to detailed information that can't be made public.
 
 ## Contribute to the playbook
-[Contact us](https://ukhomeoffice.github.io/playbook/contact/) to suggest updates and improvements, or to tell us how these principles work in practice. We will iterate the playbook based on feedback. 
+[Contact us](https://ukhomeoffice.github.io/playbook/contact/) - we want to hear your suggestions for updates and improvements. Or, tell us how these principles work in practice. We'll update the playbook based on your feedback. 
