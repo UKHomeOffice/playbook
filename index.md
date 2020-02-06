@@ -5,7 +5,7 @@ description: ""
 id: index
 ---
 
-The playbook contains principles that teams should follow to design, build, run and retire Home Office products. The principles are:
+The playbook includes principles teams should follow to design, build, run and retire Home Office products. 
 
 <!-- 1. Understand the problem you're trying to solve  
 [Read more about principle 1](https://ukhomeoffice.github.io/playbook/problem/)-->
@@ -16,13 +16,13 @@ The playbook contains principles that teams should follow to design, build, run 
 <!-- 3. Design with users  
 [Read more about principle 3](https://ukhomeoffice.github.io/playbook/be-user-centred/)-->
 
-Establish your team  
+## Establish your team  
 [Read more about principle](https://ukhomeoffice.github.io/playbook/team/)
 
-Use appropriate delivery methods  
+## Use appropriate delivery methods  
 [Read more about principle](https://ukhomeoffice.github.io/playbook/delivery-methods/)
 
-Make sure everyone can use the service  
+## Make sure everyone can use the service  
 [Read more about principle](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
 
 <!-- 6. Iterate, improve and evaluate  
