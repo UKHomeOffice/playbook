@@ -23,7 +23,7 @@ The playbook includes principles teams should follow to design, build, run and r
 [How effective delivery helps to achieve your outcomes](https://ukhomeoffice.github.io/playbook/delivery-methods/)
 
 ### Make sure everyone can use your service or product
-[Accessibility is essential - embedd it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
 
 <!-- 6. Iterate, improve and evaluate  
 [Read more about principle 6](https://ukhomeoffice.github.io/playbook/delivery-methods/)-->
