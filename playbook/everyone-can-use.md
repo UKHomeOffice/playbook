@@ -46,7 +46,7 @@ Find out more about accessibility testing during [development phases in the gove
 
 ### Carry out an accessibility risk assessment  
 
-All Home Office websites, online services and mobile apps must complete an [accessibility risk assessment](https://collaboration.homeoffice.gov.uk/display/A11y/Accessibility+Risk+Assessment?preview=/82355878/82356153/Accessibility%20Risk%20Assessment%20tool_V2%20(1).xlsx)(internal link). This also includes software we buy, build ourselves of pay others to build. 
+All Home Office websites, online services and mobile apps must complete an [accessibility risk assessment](https://collaboration.homeoffice.gov.uk/display/A11y/Accessibility+Risk+Assessment?preview=/82355878/82356153/Accessibility%20Risk%20Assessment%20tool_V2%20(1).xlsx) (internal link). This also includes software we buy, build ourselves of pay others to build. 
 
 This helps to identify the level of accessibility risk a service may pose. It could be something like the reputational or legal risk of an inaccessible service going live, or the risk created by not having suitable skilled individuals within a delivery team. 
 
