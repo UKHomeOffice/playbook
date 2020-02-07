@@ -42,7 +42,7 @@ Start thinking about how people might use your service before you design or buil
 
 * save time and money 
 
-Find out more about accessibility testing during [development phases in the government service manual[(https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction#what-to-do-about-accessibility-in-discovery). 
+Find out more about accessibility testing during [development phases in the government service manual](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction#what-to-do-about-accessibility-in-discovery). 
 
 ### Carry out an accessibility risk assessment  
 
