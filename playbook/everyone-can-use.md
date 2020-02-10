@@ -8,7 +8,7 @@ Your website or service must be accessible to everyone who needs to use it. This
 
 ## Why this is important  
 
-All Home Office digital services are expected to meet the UK Government service standards for accessibility. By meeting the standards, you create a service which: 
+All Home Office digital services are expected to meet the UK Government service standard for accessibility. By meeting the standards, you create a service which: 
 
 * more people can use   
 
