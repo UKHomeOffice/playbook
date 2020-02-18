@@ -36,8 +36,10 @@ This information is publicly available but may link through to detailed informat
 ### [Get help from the accesssibility and inclusion team](https://ukhomeoffice.github.io/playbook/accessibility-help/)
 
 
-<!-- ### Establish your team  
-[Have the right roles in place to work together](https://ukhomeoffice.github.io/playbook/team/)-->
+### Establish your team  
+[Have the right roles in place to work together](https://ukhomeoffice.github.io/playbook/team/)
+
+
 
 <!-- ### Use appropriate delivery methods  
 [How effective delivery helps to achieve your outcomes](https://ukhomeoffice.github.io/playbook/delivery-methods/)-->
