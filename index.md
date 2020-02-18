@@ -16,24 +16,18 @@ The playbook includes principles teams should follow to design, build, run and r
 <!-- 3. Design with users  
 [Read more about principle 3](https://ukhomeoffice.github.io/playbook/be-user-centred/)-->
 
-### Make sure everyone can use your service or product
-[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+## Make sure everyone can use your service or product
 
+## [How to consider accessibility from the start and throughout the lifecycle](https://ukhomeoffice.github.io/playbook/accessibility-from-start/)
 
-## How to consider accessibility from the start and throughout the lifecycle 
-[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+## [Carry out accessibility testing at every stage of development](https://ukhomeoffice.github.io/playbook/accessibility-testing/)
 
-## Carry out accessibility testing at every stage of development
-[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+## [Identify the level of accessibility risk a service may pose](https://ukhomeoffice.github.io/playbook/accessibility-risk/)
 
-## Identify the level of accessibility risk a service may pose 
-[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
-
-## Make sure you have an up-to-date accessibility statement 
-[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+## [Make sure you have an up-to-date accessibility statement](https://ukhomeoffice.github.io/playbook/accessibility-statement/)
 
 ## Get help from the accesssibility and inclusion team
-[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+[Get help from the accesssibility and inclusion team](https://ukhomeoffice.github.io/playbook/accessibility-help/)
 
 
 ### Establish your team  
