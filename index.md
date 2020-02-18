@@ -16,26 +16,26 @@ The playbook includes tools and tasks to help teams to be product-centred.
 <!-- 3. Design with users  
 [Read more about principle 3](https://ukhomeoffice.github.io/playbook/be-user-centred/)-->
 
-## Make sure everyone can use your service or product
+### Make sure everyone can use your service or product
 
-### [Know how to meet accessibility laws](https://ukhomeoffice.github.io/playbook/accessibility-law/)
+#### [Know how to meet accessibility laws](https://ukhomeoffice.github.io/playbook/accessibility-law/)
 
-### [How to consider accessibility from the start and throughout the lifecycle](https://ukhomeoffice.github.io/playbook/accessibility-from-start/)
+#### [How to consider accessibility from the start and throughout the lifecycle](https://ukhomeoffice.github.io/playbook/accessibility-from-start/)
 
-### [Carry out accessibility testing at every stage of development](https://ukhomeoffice.github.io/playbook/accessibility-testing/)
+#### [Carry out accessibility testing at every stage of development](https://ukhomeoffice.github.io/playbook/accessibility-testing/)
 
-### [Identify the level of accessibility risk a service may pose](https://ukhomeoffice.github.io/playbook/accessibility-risk/)
+#### [Identify the level of accessibility risk a service may pose](https://ukhomeoffice.github.io/playbook/accessibility-risk/)
 
-### [Make sure you have an up-to-date accessibility statement](https://ukhomeoffice.github.io/playbook/accessibility-statement/)
+#### [Make sure you have an up-to-date accessibility statement](https://ukhomeoffice.github.io/playbook/accessibility-statement/)
 
-### [Get help from the accesssibility and inclusion team](https://ukhomeoffice.github.io/playbook/accessibility-help/)
+#### [Get help from the accesssibility and inclusion team](https://ukhomeoffice.github.io/playbook/accessibility-help/)
 
 
-### Establish your team  
-[Have the right roles in place to work together](https://ukhomeoffice.github.io/playbook/team/)
+<!-- ### Establish your team  
+[Have the right roles in place to work together](https://ukhomeoffice.github.io/playbook/team/)-->
 
-### Use appropriate delivery methods  
-[How effective delivery helps to achieve your outcomes](https://ukhomeoffice.github.io/playbook/delivery-methods/)
+<!-- ### Use appropriate delivery methods  
+[How effective delivery helps to achieve your outcomes](https://ukhomeoffice.github.io/playbook/delivery-methods/)-->
 
 
 <!-- 6. Iterate, improve and evaluate  
