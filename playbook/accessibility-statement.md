@@ -5,9 +5,9 @@ permalink: /accessibility-statement/
 category: contents
 ---
 
-## Have an up-to-date accessibility statement 
+Most websites and services need an accessibility statement to comply with public sector regulatory requirements. 
 
-Most websites and services need an accessibility statement to comply with public sector regulatory requirements. See the Home Office guidance on accessibility statements for more detail (internal link).  
+See the Home Office guidance on [accessibility statements](https://ukhomeoffice.github.io/playbook/accessibility-statement/) for more detail (internal link).  
 
 You should: 
 
