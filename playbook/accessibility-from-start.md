@@ -46,7 +46,7 @@ You can:
 
 ## Make sure your team members know how they are involved  
 
-Everyone in your team (link to your team section) should help with accessibility.  
+[Everyone in your team](https://ukhomeoffice.github.io/playbook/team/) should help with accessibility.  
 
 For example your:
 
