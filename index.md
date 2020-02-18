@@ -61,5 +61,7 @@ The playbook includes tools and tasks to help teams to be product-centred.
 
 This information is publicly available but may link through to detailed information that can't be made public.
 
-## Contribute to the playbook
+
+
+### Contribute to the playbook
 [Contact us](https://ukhomeoffice.github.io/playbook/contact/) - we want to hear your suggestions for updates and improvements. Or, tell us how these principles work in practice. We'll update the playbook based on your feedback. 
