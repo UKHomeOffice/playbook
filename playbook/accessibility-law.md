@@ -1,3 +1,12 @@
+---
+layout: page
+title:  "Know how to meet accessibility law"
+permalink: /accessibility-law/
+category: contents
+---
+
+
+
 Your website or service must be accessible to everyone who needs to use it. This is not optional or nice to have. It’s essential and required by the law. 
 
 ## Why this is important  
