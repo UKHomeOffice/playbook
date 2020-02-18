@@ -5,7 +5,7 @@ description: ""
 id: index
 ---
 
-The playbook includes principles teams should follow to design, build, run and retire Home Office products. 
+The playbook includes tools and tasks to help teams to be product-centred.  
 
 <!-- 1. Understand the problem you're trying to solve  
 [Read more about principle 1](https://ukhomeoffice.github.io/playbook/problem/)-->
@@ -18,16 +18,17 @@ The playbook includes principles teams should follow to design, build, run and r
 
 ## Make sure everyone can use your service or product
 
-## [How to consider accessibility from the start and throughout the lifecycle](https://ukhomeoffice.github.io/playbook/accessibility-from-start/)
+### [Know how to meet accessibility laws](https://ukhomeoffice.github.io/playbook/accessibility-law/)
 
-## [Carry out accessibility testing at every stage of development](https://ukhomeoffice.github.io/playbook/accessibility-testing/)
+### [How to consider accessibility from the start and throughout the lifecycle](https://ukhomeoffice.github.io/playbook/accessibility-from-start/)
 
-## [Identify the level of accessibility risk a service may pose](https://ukhomeoffice.github.io/playbook/accessibility-risk/)
+### [Carry out accessibility testing at every stage of development](https://ukhomeoffice.github.io/playbook/accessibility-testing/)
 
-## [Make sure you have an up-to-date accessibility statement](https://ukhomeoffice.github.io/playbook/accessibility-statement/)
+### [Identify the level of accessibility risk a service may pose](https://ukhomeoffice.github.io/playbook/accessibility-risk/)
 
-## Get help from the accesssibility and inclusion team
-[Get help from the accesssibility and inclusion team](https://ukhomeoffice.github.io/playbook/accessibility-help/)
+### [Make sure you have an up-to-date accessibility statement](https://ukhomeoffice.github.io/playbook/accessibility-statement/)
+
+### [Get help from the accesssibility and inclusion team](https://ukhomeoffice.github.io/playbook/accessibility-help/)
 
 
 ### Establish your team  
