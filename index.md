@@ -5,7 +5,10 @@ description: ""
 id: index
 ---
 
-The playbook includes tools and tasks to help teams to be product-centred.  
+The playbook includes tools and tasks to help teams to be product-centred.
+
+This information is publicly available but may link through to detailed information that can't be made public.
+
 
 <!-- 1. Understand the problem you're trying to solve  
 [Read more about principle 1](https://ukhomeoffice.github.io/playbook/problem/)-->
@@ -58,9 +61,6 @@ The playbook includes tools and tasks to help teams to be product-centred.
 
 <!--13. Choose the right technical approach  
 [Read more about principle 13](https://ukhomeoffice.github.io/playbook/platforms-and-technology/)-->
-
-This information is publicly available but may link through to detailed information that can't be made public.
-
 
 
 ### Contribute to the playbook
