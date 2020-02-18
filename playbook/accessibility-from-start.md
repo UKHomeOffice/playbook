@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "How to consider accessibility from the start and throughout the lifecycle "
+title:  "How to consider accessibility from the start and throughout the lifecycle"
 permalink: /accessibility-from-start/
 category: contents
 ---
@@ -26,7 +26,6 @@ You can start to consider accessibility by thinking about how people might use y
 
 Find out more about accessibility testing during development phases in the government service manual. 
 
- 
 
 ## Embed accessibility into your processes 
 
