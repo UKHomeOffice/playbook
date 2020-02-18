@@ -10,15 +10,15 @@ Your website or service must be accessible to everyone who needs to use it. This
 
 ## UK government accessibility standards 
 
-These are the standards your service must adhere to, to ensure it is accessible, in order to meet the law: 
+These are the standards your service must meet to ensure everyone can use it. To make sure your service meets the law, you must make sure that it: 
 
-* meet the minimum of [level AA of Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/)  
+* meets the minimum of [level AA of Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/)  
 
-* have an [accessibility statement](https://github.com/UKHomeOffice/playbook/edit/master/playbook/accessibility-statement) stating how the service meets the WCAG guidelines, if there are any known issues or workarounds and how to get support or making a complaint 
+* has an [accessibility statement](https://github.com/UKHomeOffice/playbook/edit/master/playbook/accessibility-statement) stating how the service meets the WCAG guidelines, if there are any known issues or workarounds and how to get support or making a complaint 
 
-* work on commonly used browsers and assistive technologies 
+* works on commonly used browsers and assistive technologies 
 
-* have been informed by research and tested with people with disabilities 
+* has been informed by research and testing with people with disabilities and access needs
 
 ## Why this is important  
 
