@@ -19,6 +19,23 @@ The playbook includes principles teams should follow to design, build, run and r
 ### Make sure everyone can use your service or product
 [Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
 
+
+## How to consider accessibility from the start and throughout the lifecycle 
+[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+
+## Carry out accessibility testing at every stage of development
+[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+
+## Identify the level of accessibility risk a service may pose 
+[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+
+## Make sure you have an up-to-date accessibility statement 
+[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+
+## Get help from the accesssibility and inclusion team
+[Accessibility is essential - embed it into your approach](https://ukhomeoffice.github.io/playbook/everyone-can-use/)
+
+
 ### Establish your team  
 [Have the right roles in place to work together](https://ukhomeoffice.github.io/playbook/team/)
 
