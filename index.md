@@ -21,19 +21,19 @@ This information is publicly available but may link through to detailed informat
 
 ## Make sure everyone can use your service or product
 
-### [Know how to meet accessibility laws](https://ukhomeoffice.github.io/playbook/accessibility-law/)
+[Know how to meet accessibility laws](https://ukhomeoffice.github.io/playbook/accessibility-law/)
 
-### [How to consider accessibility from the start and throughout the lifecycle](https://ukhomeoffice.github.io/playbook/accessibility-from-start/)
+[How to consider accessibility from the start and throughout the lifecycle](https://ukhomeoffice.github.io/playbook/accessibility-from-start/)
 
-### [Carry out accessibility testing at every stage of development](https://ukhomeoffice.github.io/playbook/accessibility-testing/)
+[Carry out accessibility testing at every stage of development](https://ukhomeoffice.github.io/playbook/accessibility-testing/)
 
-### [Identify the level of accessibility risk a service may pose](https://ukhomeoffice.github.io/playbook/accessibility-risk/)
+[Identify the level of accessibility risk a service may pose](https://ukhomeoffice.github.io/playbook/accessibility-risk/)
 
-### [Make sure you have an up-to-date accessibility statement](https://ukhomeoffice.github.io/playbook/accessibility-statement/)
+[Make sure you have an up-to-date accessibility statement](https://ukhomeoffice.github.io/playbook/accessibility-statement/)
 
-### [How to buy accessible systems and services](https://ukhomeoffice.github.io/playbook/accessibility-buy/)
+[How to buy accessible systems and services](https://ukhomeoffice.github.io/playbook/accessibility-buy/)
 
-### [Get help from the accesssibility and inclusion team](https://ukhomeoffice.github.io/playbook/accessibility-help/)
+[Get help from the accesssibility and inclusion team](https://ukhomeoffice.github.io/playbook/accessibility-help/)
 
 
 ### Establish your team  
