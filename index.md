@@ -19,7 +19,7 @@ This information is publicly available but may link through to detailed informat
 <!-- 3. Design with users  
 [Read more about principle 3](https://ukhomeoffice.github.io/playbook/be-user-centred/)-->
 
-## Make sure everyone can use your service or product
+### Make sure everyone can use your service or product
 
 [Know how to meet accessibility laws](https://ukhomeoffice.github.io/playbook/accessibility-law/)
 
