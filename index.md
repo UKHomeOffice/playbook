@@ -31,6 +31,8 @@ This information is publicly available but may link through to detailed informat
 
 ### [Make sure you have an up-to-date accessibility statement](https://ukhomeoffice.github.io/playbook/accessibility-statement/)
 
+### [How to buy accessible systems and services](https://ukhomeoffice.github.io/playbook/accessibility-buy/)
+
 ### [Get help from the accesssibility and inclusion team](https://ukhomeoffice.github.io/playbook/accessibility-help/)
 
 
