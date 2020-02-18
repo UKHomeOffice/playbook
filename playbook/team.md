@@ -13,7 +13,7 @@ The roles that are needed can differ, depending on:
 
 * the phase of the delivery lifecycle your service is at 
 
-* if your service has a user-interface 
+* if your service has a user-interface (UI)
 
 
 
@@ -21,11 +21,10 @@ The roles that are needed can differ, depending on:
 
 The skills you need will change during the lifecycle of your service. Read more about the roles you’ll need at each service phase in the government service manual. 
 
- 
 
-## Roles needed in services with user interfaces (UI) 
+## Roles needed in services with UI
 
-If your service or product has a user-interface (for example a website, an app, or forms that users complete) then you will need to a user-centred design (UCD) team working on your service design.  
+If your service or product has a UI (for example a website, an app, or forms that users complete) then you will need to a user-centred design (UCD) team working on your service design.  
 
 The roles needed on a UCD team are listed below, and are also explained in the in the government service manual. 
 
@@ -33,9 +32,8 @@ The roles needed on a UCD team are listed below, and are also explained in the i
 
 ## How to establish your team 
 
-Consider the roles you need 
+Consider the roles you need: 
 
- 
 
 ## Product-related roles 
 
@@ -49,14 +47,12 @@ They’re responsible for the product vision and ensuring the value of the produ
 
 The Product Owner act as an interface between the product and the business. They are usually subject matter experts and bring their expertise supports prioritisation and backlog definition throughout the product lifecycle. 
  
-### Service owner 
+<!-- ### Service owner -->
  
 
 ### Delivery manager 
 
 Delivery managers can be called different things like project manager and can use different methods (link to content page). They focus on moving a team forward to meet an outcome. 
-
- 
 
 ### Developer  
 
@@ -64,14 +60,9 @@ Developers (or software engineers) create core components of solutions and help 
 
 They work to Home Office technical standards, writing clean, secure code following a test-driven approach. Whenever possible they ensure the code is open and can be re-used. 
 
- 
-
 ### Quality Assurance Tester
 
 ### Business analyst  
-
-What is our default team set up? 
-
  
 
 ## Roles needed in a user-centred design (UCD) team 
@@ -92,14 +83,9 @@ Content designers make sure appropriate and clear content is shown to users in t
 
 ### Designer 
 
-Designers work alongside researchers and developers to design user-centred accessible services that are simple enough for everyone to use. 
-They determine the best way for users to interact with services, the overall flow and individual design elements.  
-
+Designers work alongside researchers and developers to design user-centred accessible services that are simple enough for everyone to use. They determine the best way for users to interact with services, the overall flow and individual design elements.  
  
-
 See the Home Office role definitions for more information (not externally available). 
-
- 
 
 ## Get help
 
