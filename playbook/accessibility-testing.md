@@ -7,7 +7,7 @@ category: contents
 
 It’s possible to test for accessibility at every stage of development. 
 
-To meet [government standards](/accessibility-law/), you need to carry out these checks:  
+To meet [government standards](https://ukhomeoffice.github.io/playbook/accessibility-law/), you need to carry out these checks:  
 
 * conduct research with people with access needs  
 
