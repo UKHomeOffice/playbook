@@ -10,8 +10,7 @@ The playbook includes tools and tasks to help teams to be product-centred.
 This information is publicly available but may link through to detailed information that can't be made public.
 
 
-<!-- 1. Understand the problem you're trying to solve  
-[Read more about principle 1](https://ukhomeoffice.github.io/playbook/problem/)-->
+
 
 <!-- 2. Know the value your product will bring  
 [Read more about principle 2](https://ukhomeoffice.github.io/playbook/know-the-value-your-product-will-bring/)-->
@@ -39,7 +38,8 @@ This information is publicly available but may link through to detailed informat
 ### Establish your team  
 [Have the right roles in place to work together](https://ukhomeoffice.github.io/playbook/team/)
 
-
+### Understand the problem you're trying to solve  
+[Carry out a problem-framing exercise](https://ukhomeoffice.github.io/playbook/problem-framing/
 
 <!-- ### Use appropriate delivery methods  
 [How effective delivery helps to achieve your outcomes](https://ukhomeoffice.github.io/playbook/delivery-methods/)-->
