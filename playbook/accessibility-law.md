@@ -14,13 +14,13 @@ These are the standards your service must meet to ensure everyone can use it. To
 
 * meets the minimum of [level AA of Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/)  
 
-* has an [accessibility statement](https://github.com/UKHomeOffice/playbook/edit/master/playbook/accessibility-statement/) stating how the service meets the WCAG guidelines, if there are any known issues or workarounds and how to get support or making a complaint 
+* has an [accessibility statement](https://github.com/UKHomeOffice/playbook/playbook/accessibility-statement/) stating how the service meets the WCAG guidelines, if there are any known issues or workarounds and how to get support or making a complaint 
 
 * works on commonly used browsers and assistive technologies 
 
 * has been informed by research and testing with people with disabilities and access needs
 
-[Carry out accessibility tests](https://github.com/UKHomeOffice/playbook/edit/master/playbook/accessibility-testing/) to make sure that you meet these standards.
+[Carry out accessibility tests](https://github.com/UKHomeOffice/playbook/accessibility-testing/) to make sure that you meet these standards.
 
 ## Why this is important  
 
