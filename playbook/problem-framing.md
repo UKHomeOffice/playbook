@@ -5,11 +5,8 @@ permalink: /problem-framing/
 category: contents
 --- 
 
- 
 
-### Carry out a problem-framing exercise 
-
-Framing the problem you are trying to solve helps ensure you are clear about:  
+Framing the problem you are trying to solve is a way of gaining a clearer understanding of the problem. It is a technique that helps ensure you are clear about:  
 
 * why you are doing a piece of work 
 
