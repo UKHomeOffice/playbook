@@ -20,6 +20,8 @@ These are the standards your service must meet to ensure everyone can use it. To
 
 * has been informed by research and testing with people with disabilities and access needs
 
+[Carry out accessibility tests](https://github.com/UKHomeOffice/playbook/edit/master/playbook/accessibility-testing) to make sure that you meet these standards.
+
 ## Why this is important  
 
 All Home Office digital services are expected to meet the UK Government service standard for accessibility. By meeting the standards, you create a service which: 
