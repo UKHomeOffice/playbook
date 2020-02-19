@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "How to carry out accessibility testing at every stage of development"
+title:  "Accessibility test you can do at every stage of development"
 permalink: /accessibility-testing/
 category: contents
 --- 
