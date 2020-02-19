@@ -20,7 +20,7 @@ This information is publicly available but may link through to detailed informat
 
 ### Make sure everyone can use your service or product
 
-[Know how to meet accessibility laws](https://ukhomeoffice.github.io/playbook/accessibility-law/)
+[Know the accessibility laws and standards you must meet](https://ukhomeoffice.github.io/playbook/accessibility-law/)
 
 [How to consider accessibility from the start and throughout the lifecycle](https://ukhomeoffice.github.io/playbook/accessibility-from-start/)
 
