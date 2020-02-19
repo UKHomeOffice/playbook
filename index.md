@@ -39,7 +39,7 @@ This information is publicly available but may link through to detailed informat
 [Have the right roles in place to work together](https://ukhomeoffice.github.io/playbook/team/)
 
 ### Understand the problem you're trying to solve  
-[Carry out a problem-framing exercise](https://ukhomeoffice.github.io/playbook/problem-framing/
+[Carry out a problem-framing exercise](https://ukhomeoffice.github.io/playbook/problem-framing/)
 
 <!-- ### Use appropriate delivery methods  
 [How effective delivery helps to achieve your outcomes](https://ukhomeoffice.github.io/playbook/delivery-methods/)-->
