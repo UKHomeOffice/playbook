@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "How to meet accessibility law"
+title:  "Know the accessibility laws you must meet"
 permalink: /accessibility-law/
 category: contents
 ---
