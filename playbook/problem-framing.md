@@ -65,4 +65,10 @@ You should also revisit this as your delivery progresses and the team learns. Th
 
 If you are not running an Agile delivery, or you have skipped the discovery phase, then it’s still useful to carry out these tasks as it helps you to fully understand the scope of your work and to know when it’s complete. 
 
+## Related reading
+
+https://www.gov.uk/service-manual/design/map-a-users-whole-problem
+https://www.gov.uk/service-manual/design/scoping-your-service
+
+
  
