@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Design with users"
+title:  "Use existing data to capture user needs"
 permalink: /user-centred/
 category: contents
 ---
