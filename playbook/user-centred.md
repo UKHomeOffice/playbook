@@ -1,48 +1,68 @@
 ---
 layout: page
 title:  "Design with users"
-permalink: /be-user-centred/
+permalink: /user-centred/
 category: contents
 ---
-Intro par explains principle. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-## Why this is important
-This is why you should do this. The benefits it will bring etc. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## How to meet this principle 
-These are the things you could do to meet this priniciple. This information will be supplied by the head of role or experts in this area.
+If you don’t have a user researcher, you can use existing insights, data and feedback to capture some user needs. 
+You can use this information to help you plan or prioritise from a user’s perspective. 
 
-### Action to take
-You could: 
-* do this
-* do this next
-* and then do this
+## Run a workshop to look at your prioritisation from a user centred perspective 
 
-Ask the community or head of role for more information.
+1. Chose a product  
 
-#### Expected outputs 
-Include if not covered above.
+2. Collate together the insights that you have on this product, you may have: 
 
-### When to do this
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Nulla pariatur:
-- lorem ipsum dolor sit amet, consectetur adipisicing elit
-- ed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+* web stats or web logs 
 
-#### If using Agile
-The stage of the lifecycle to do this.
+* search terms 
 
-#### If you are using other project management methods
+* user comments and feedback 
 
-### Who should do this
+* complaints 
 
-### Who to ask for help
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+* requests 
+  
 
-## HO standards and governance 
-This principle must be met, to adhere to Home Office standards. Heads of role will check that you have met this principle, or you will be assesed
+3. Gather your team together, to participate in a workshop 
 
-## HO case studies and examples
+  
 
-Link to case studies. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in.
+4. Give everyone one source of information to look at 
+
+  
+
+5. Ask them to note down issues, thoughts on post it notes 
+
+  
+
+6. Ask them to put these on a wall 
+
+  
+
+7. You’ll soon themes emerging – some larger than others 
+
+8. Note down them theme
+
+You can then use these themes to help with prioritisation. You could align these with your release or update plans, or with your product roadmap.  
+
+You may also have more technical information: 
+
+* demand plans 
+
+* release plans or patches 
+
+* incident logs (ServiceNow) 
+
+* incidents (P1s for example and resolution information) 
+
+* analysis of the incidents  
+
+
+If you run the same session with these, and align the two themes, you will have a plan that has been influenced by user needs. 
+
+You may still want to carry out in-depth user testing to look at particular blockers. Contact the head of role for research to discuss this. 
+ 
 
