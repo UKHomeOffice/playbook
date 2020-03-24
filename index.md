@@ -5,7 +5,7 @@ description: ""
 id: index
 ---
 
-A collection of guides and resources to help you whilst working remotely.
+A collection of guides and resources to help you whilst working remotely. You can contribute by <a href="mailto:remoteworking@digital.homeoffice.gov.uk>">emailing us</a>.
 
 ## General remote guides
 - [National Cyber Securty Centre (NCSC): Homeworking](https://www.ncsc.gov.uk/guidance/home-working)  
@@ -57,3 +57,5 @@ Headspace Covid-19 resources
 - [Live animal cams](https://www.edinburghzoo.org.uk/webcams/rockhopper-penguin-cam/#rockhopperpenguincam)
 - [Google Arts and Culture](https://artsandculture.google.com/explore)  
 Virtual tours of museums
+
+_Please note that the Home Office does not endorse the organisations and resources above and links are provided only for informational purposes_
