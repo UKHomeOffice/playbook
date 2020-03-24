@@ -34,6 +34,8 @@ Guide to running agile remotely
 Onboarding checklist for new staff remotely
 - [Design and Climate: Running remote workshops](https://docs.google.com/document/d/1zL_pkVKR57KOO4zqXUwUpfKd0MzPOue3-GQ6mUDu_fQ/edit#heading=h.yclhbc398qk2)  
 How to run workshops remotely
+- [Sharepoint: Guidance for user researchers](https://homeofficegovuk.sharepoint.com/:w:/r/teams/HomeOfficeDigital/User%20Research%20and%20Design/userresearch/_layouts/15/Doc.aspx?sourcedoc=%7BDA638554-939C-479D-B26A-9A9ECE58DB0A%7D&file=COVID-19%20Guidance%20v2.0%20(17th%20March).docx&action=default&mobileredirect=true&DefaultItemOpen=1)  
+Current advice for Home Office User Researchers in response to the outbreak of Covid19
 
 ## Tools
 - [Sharepoint: Setting up VPN on non-POISE machines](https://homeofficegovuk.sharepoint.com/:w:/r/teams/HomeOfficeDigital/User%20Research%20and%20Design/userresearch/_layouts/15/Doc.aspx?sourcedoc=%7B9201CFD0-8905-4F33-9782-14E816DAD5E0%7D&file=Accessing%20Confluence%20on%20a%20Mac%20without%20GovWifi.docx&action=default&mobileredirect=true&cid=0b9e055c-42f8-44db-af57-fad1afff3585)
@@ -47,6 +49,7 @@ Tool to schedule Digital to Digital Skype for Business meetings
 https://collaboration.homeoffice.gov.uk/display/HMPOCOL/Playbook%3A+Working+Remotely	 -->
 
 # Mental health
+- [NHS: 5 steps to mental wellbeing](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
 - [Alice Goldfuss: Work in the time of corona](https://blog.alicegoldfuss.com/work-in-the-time-of-corona/)  
 Mental health guidance for remote working
 - [Headspace](https://www.headspace.com/covid-19)  
