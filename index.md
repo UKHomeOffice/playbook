@@ -54,8 +54,9 @@ Headspace Covid-19 resources
 
 ## Fun
 
-- [Live animal cams](https://www.edinburghzoo.org.uk/webcams/rockhopper-penguin-cam/#rockhopperpenguincam)
+- [Edinburgh Zoo: Live animal cams](https://www.edinburghzoo.org.uk/webcams/rockhopper-penguin-cam/#rockhopperpenguincam)
 - [Google Arts and Culture](https://artsandculture.google.com/explore)  
 Virtual tours of museums
+- [Virtual tours and learning apps](https://docs.google.com/document/d/1YfcmgRDbP-Kfrh0-jTyFP2fNWsbNXdJAemblLiCRHdA/edit)
 
-_Please note that the Home Office does not endorse the organisations and resources above and links are provided only for informational purposes_
+_Please note that the Home Office does not endorse the organisations and resources above and links are provided only for informational purposes._
