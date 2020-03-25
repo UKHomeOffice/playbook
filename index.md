@@ -10,7 +10,7 @@ A collection of guides and resources to help you whilst working remotely. You ca
 ## General remote guides
 - [National Cyber Securty Centre (NCSC): Homeworking](https://www.ncsc.gov.uk/guidance/home-working)  
 Guide to preparing your organisation and staff
-- [Coronovirus tech handbook: Remote resources](https://coronavirustechhandbook.com/remote)  
+- [Coronavirus tech handbook: Remote resources](https://coronavirustechhandbook.com/remote)  
 A crowdsourced set of resources on remote working
 - [BBC: Five ways to work well from home](https://www.bbc.co.uk/news/business-51868894)  
 BBC news article on remote Working
@@ -54,6 +54,10 @@ https://collaboration.homeoffice.gov.uk/display/HMPOCOL/Playbook%3A+Working+Remo
 Mental health guidance for remote working
 - [Headspace](https://www.headspace.com/covid-19)  
 Headspace Covid-19 resources
+- [Care for your coronavirus anxiety](https://www.virusanxiety.com/)
+- [Instagram: The Fab Story](https://www.instagram.com/thefabstory/)  
+Well-being checklists and graphics
+- [Inc: Neuroscience Says Listening to This Song Reduces Anxiety by Up to 65 Percent](https://www.inc.com/melanie-curtin/neuroscience-says-listening-to-this-one-song-reduces-anxiety-by-up-to-65-percent.html)
 
 ## Fun
 
@@ -61,5 +65,6 @@ Headspace Covid-19 resources
 - [Google Arts and Culture](https://artsandculture.google.com/explore)  
 Virtual tours of museums
 - [Virtual tours and learning apps](https://docs.google.com/document/d/1YfcmgRDbP-Kfrh0-jTyFP2fNWsbNXdJAemblLiCRHdA/edit)
+- [Exploring the Smithsonian Museum from your living room](https://www.smithsonianmag.com/smithsonian-institution/how-virtually-explore-smithsonian-your-living-room-180974436/)
 
 _Please note that the Home Office does not endorse the organisations and resources above and links are provided only for informational purposes._
