@@ -36,9 +36,9 @@ Onboarding checklist for new staff remotely
 How to run workshops remotely
 - [Sharepoint: Guidance for user researchers](https://homeofficegovuk.sharepoint.com/:w:/r/teams/HomeOfficeDigital/User%20Research%20and%20Design/userresearch/_layouts/15/Doc.aspx?sourcedoc=%7BDA638554-939C-479D-B26A-9A9ECE58DB0A%7D&file=COVID-19%20Guidance%20v2.0%20(17th%20March).docx&action=default&mobileredirect=true&DefaultItemOpen=1)  
 Current advice for Home Office User Researchers in response to the outbreak of Covid19
-- [GDS: How to work remotely as a team - from page 12](https://drive.google.com/file/d/1AH1wpwbUBsW0Y811a8OVTc9VO_eGhEt4/view).  
+- [GDS: How to work remotely as a team - from page 12](https://drive.google.com/file/d/1AH1wpwbUBsW0Y811a8OVTc9VO_eGhEt4/view)   
 From the Cross-gov Discuss a Design Challenge Call, April 2020
-- [Mentally Friendly’s quickly evolving guide to making remote teamwork productive](https://docs.google.com/presentation/d/1BP80GNg-rUkYUu-ZszwK6U3Dr65qvw70aXispH-EcQ8/edit#slide=id.g72e7cebf42_63_0). 
+- [Mentally Friendly’s quickly evolving guide to making remote teamwork productive](https://docs.google.com/presentation/d/1BP80GNg-rUkYUu-ZszwK6U3Dr65qvw70aXispH-EcQ8/edit#slide=id.g72e7cebf42_63_0)  
 A collaborative document
 
 ## Tools
