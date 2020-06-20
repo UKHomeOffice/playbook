@@ -2,7 +2,6 @@ theme: jekyll-theme-cayman
 title: Home Office DDaT Playbook
 description:
 baseurl: "/playbook" # the subpath of your site, e.g. /blog
-# baseurl: "" # the subpath of your site, e.g. /blog - use for dev
 excerpt_separator: "<!--more-->"
 breadcrumbs:
   root:
@@ -13,12 +12,3 @@ sass:
     sass_dir: _sass
 google_analytics: UA-100424158-2
 permalink: pretty
-
-collections: 
-  playbooks:
-    output: true
-  user-centereds:
-    output: true
-  homeworkings:
-    output: true
-  
