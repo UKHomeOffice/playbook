@@ -6,11 +6,11 @@ id: index
 permalink: /about/
 ---
 
-### 1. [Go to playbook]({% link _playbooks/playbook.md %})
+### 1. [Go to playbook]({% link {{site.baseurl}}/_playbooks/playbook.md %})
 <br>
-### 2. [Go to User Centered Area]({% link _user-centereds/usercentered.md %})
+### 2. [Go to User Centered Area]({% link {{site.baseurl}}/_user-centereds/usercentered.md %})
 <br>
-### 3. [Go to Homeworking resources]({% link _homeworkings/homeworking.md %})
+### 3. [Go to Homeworking resources]({% link {{site.baseurl}}/_homeworkings/homeworking.md %})
 <br>
 
 
