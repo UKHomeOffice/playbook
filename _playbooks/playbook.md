@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Playbook"
+category: "newplaybook"
 permalink: /playbook/
 ---
 # Home Office Playbook
