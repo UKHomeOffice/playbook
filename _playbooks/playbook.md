@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Playbook List"
+title: "Playbook"
 permalink: /playbook/
 ---
 # Home Office Playbook
@@ -15,7 +15,7 @@ Ideally, products would have one written when the process of building them begin
 ### What do they include?
 1. Vision
 1. Value Proposition
-1. [Roadmaps]({% link _playbooks/Roadmaps.md %})
+1. [Roadmaps]({{site.baseurl}}{% link _playbooks/Roadmaps.md %})
 1. Metrics
 
 
@@ -24,7 +24,7 @@ Ideally, products would have one written when the process of building them begin
 
 {% for item in site.playbooks %}
 {% if item.title != page.title %}
-<a href="{{item.url}}">{{forloop.index}}. {{item.title}}</a>
+<a href="{{site.baseurl}}/{{item.url}}">{{forloop.index}}. {{item.title}}</a>
 <br>
 {% endif %}
 {% endfor %}
