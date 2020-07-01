@@ -1,16 +1,22 @@
 ---
 layout: page
-title: "Roadmaps"
+title: "Product books"
 category: "newplaybook"
 permalink: /Productbooks/
 ---
 # Product books
 
 ## What are they?
-They’re a useful tool for articulating what your product is – what user needs it meets, how you intend to develop and deliver it, who will be involved in doing that, and (roughly) when, and how you’ll measure how well it’s working. They’re usually a deck that can be used in presentations or sent out to be read and referred to by whoever needs them.
+Product books are a useful tool for articulating what your product is and how you plan to develop it.  
+
+They should cover which user needs the product meets, how you intend to develop and deliver it, and who will be involved in doing that. It may also include (roughly) when and how you’ll measure its effectiveness.  
+
+They’re usually a deck that can be used in presentations or sent out to be read and referred to by whoever needs them.
 
 ## When should we make them?
-Ideally, when the process of building a new product begins. In practice, when this hasn’t happened it’s useful to make one, wherever you are in the product lifecycle, to remind yourself and others of what you’re trying to accomplish and why and keep everyone focused on what matters – the outcome for users.
+Ideally, when the process of building a new product begins.  
+
+In practice, when this hasn’t happened it’s useful to make one, wherever you are in the product lifecycle. The purpose is to keep everyone focused on what matters – the outcome for users.
 
 ## What do they include?
 1. Vision
