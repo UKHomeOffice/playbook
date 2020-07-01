@@ -1,4 +1,4 @@
-This is where we share guidance, best practice and examples of working in a product-centric way.  
+This is where we share guidance, best practice and examples of working in a [product-centric](https://ukhomeoffice.github.io/playbook/playbook/) way.  
 
 This means we build, deliver and maintain products iteratively, testing them with the people who use them and adjusting to ensure they meet user needs.  
 
