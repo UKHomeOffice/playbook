@@ -7,7 +7,9 @@ permalink: /Roadmaps/
 ## Why use a roadmap?
 
 Having a plan that keeps everyone focused on the desired outcomes for users is important. It ensures that all the different teams, departments and stakeholders stay aligned across a whole product lifecycle.  
+
 A roadmap is a way to plan, implement and communicate how a product is developed, delivered and maintained. It’s designed to change over time, in response to fresh input from frequent user testing and changing circumstances.  
+
 How roadmaps look, what they should show and how they should be managed varies. But there are some principles that apply whether you use post-its on a wall, Excel, Trello or a specific tool designed for the purpose.   
 
 ## Roadmap principles 
@@ -28,20 +30,32 @@ How roadmaps look, what they should show and how they should be managed varies. 
 Creating a roadmap is a collaborative process. Though the product manager (if there is one) is responsible for making them happen, they don't do it on their own.
 ### Work out what needs to be done to achieve your product vision
 This means stating what you’re aiming to achieve with the product. In other words, you're focussing on goals rather than how they are achieved.  
+
 If it's a new project there may be scope to bring in [user-research]({{site.baseurl}}/playbook/) to understand the problem better prior to starting.  
+
 If you're mid delivery you may be working on assumptions, but if you’re able to factor in user-testing at some point and can adjust the approach accordingly, the product will always benefit.  
+
 You may also want to seek input from your stakeholders. If they’re not used to working in a product-centric way, they may tell you what features they want, rather than what the problem is.  
+
 Work with them to understand the problem they’re trying to solve – as a team you may find a better solution. 
+
 ### Organise the work by themes and outcomes
 It may make sense to split your roadmap into multiple “swimlanes” that run in parallel over the same period of time. Each of these would be based around a high-level [theme]({{site.baseurl}}/playbook/). If you've written a [product vision]({{site.baseurl}}/playbook/) and [value proposition]({{site.baseurl}}/playbook/) you'll use these to inform them.  
+
 For pieces of work or themes that are coming up next you may have more detail on **how** the goal will be achieved. This would typically be the implementation of a particular feature, but it could be an enabler (paying down tech debt for example), or a decision point. There's no need to get into that level of detail for areas that are further out on your roadmap.  
+
 The outcomes should have [metrics]({{site.baseurl}}/playbook/) associated with them to enable feedback and improvement. 
+
 ### Prioritise
 Prioritise what needs to be done. This requires input from everyone on the team who will work to build it  – to map dependencies and size the different pieces of work.  
+
 It often makes sense to do the smaller pieces first to confirm that you're on the right course and deliver value sooner.  
+
 Put your prioritised goals onto the roadmap in the order you’ll do them. You can include the most recent work to set the context, and projects that are already underway. We recommend that you use Q1, Q2 etc, or "Now, next, future" rather than precise dates. Include any other factors that could impact things (major holidays when things slow down, events, or changes in policy etc.).  
+
 ### Develop the roadmap over time
 It’s best not to go too far into the future with a roadmap because – things change! Six to twelve months is generally the furthest out you can go with any certainty.  
+
 Communicate the roadmap to the team and to stakeholders frequently. It's a living document that you should review regularly. 
 
 ## Case study 
